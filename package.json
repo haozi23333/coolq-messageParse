@@ -1,13 +1,12 @@
 {
-  "name": "coolq-messageParse",
-  "version": "1.0.0",
+  "name": "coolq-messageparse",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "author": "haozi23333",
   "repository": "https://github.com/haozi23333/coolq-messageParse",
   "dependencies": {
-    "iconv-lite": "^0.4.17",
-    "node-coolq": "^3.1.0"
+    "iconv-lite": "^0.4.17"
   },
   "devDependencies": {
     "@types/node": "^7.0.18"
